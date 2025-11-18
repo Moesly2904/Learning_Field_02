@@ -29,3 +29,11 @@
     - [] Test Database
 ### Presentation
     - [] Creation of Presentation
+
+## Workspace
+### Quellen
+ - [ER-Modell](/Planing/ER%20Modell.drawio)
+ - [Collected Database Information](#)
+ - [Databank](/Database/#)
+ - [Presentation](/Presentation/Presentation.pptx)
+
