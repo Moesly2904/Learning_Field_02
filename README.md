@@ -18,7 +18,8 @@
     - [] Initial Setup
     - [] Troubleshooting
 ### Planing for the Database
-    - [] Selection of the task
+    - [x] Selection of the task
+        -Innova3D KG
     - [] Information collection
     - [] Creation of ERM 
 
@@ -33,7 +34,7 @@
 ## Workspace
 ### Quellen
  - [ER-Modell](/Planing/ER%20Modell.drawio)
- - [Collected Database Information](#)
+ - [Collected Database Information](/Planing/Content.md)
  - [Databank](/Database/#)
  - [Presentation](/Presentation/Presentation.pptx)
 
