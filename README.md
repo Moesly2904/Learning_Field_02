@@ -1,21 +1,22 @@
 # Learning_Field_02
 Groupe: Kevin Feli Bennett
-## Intoduction to Databases:
+## Timetable
+### Intoduction to Databases:
     - Basic understanding of Databases
     - ER Modell
     - Normalize
     - ERM to Database
 
-## Setup MySql:
+### Setup MySql:
 
-## Planing for the Database
+### Planing for the Database
     - Selection of the task
     - Information collection
     - Creation of ERM 
 
-# Modeling Database
+### Modeling Database
     - implementaion of Structure
     - Fill Database with Information
-## Testing Database
+### Testing Database
     - Test Database
-## Presentation
+### Presentation
