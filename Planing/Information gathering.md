@@ -1,51 +1,58 @@
-# Information Gathering 
+# Information Gathering
 
+>Gathering all components of the database and loosely organizing them
 
->Gathering all components of the database and losely organizing them
+## Devices
 
-### Devices
 - printer
 - monitor
 - Server
 - laptop
 
-#### Device Type
+### Device Type
+
 - ID
 - Type
 
+## List of Device Types
 
-#### Printer
+### Printer
+
 - Device ID
-- Mac-Adress
+- Mac-Address
 - Serial-Number
 - Brand
 - Workspace ID
 - Cost
 - Buy date
 
-#### Monitor
+### Monitor
+
 - Device ID
 - Workspace ID
 - Serial-Number
 - Model
 - Buy date
 
-##### Monitor_Model
+#### Monitor_Model
+
 - Size
 - Resolution
 - Brand
 - Cost
 - Energy Efficiency
 
-#### Laptop
+### Laptop
+
 - Device ID
-- Mac-Adress
+- Mac-Address
 - Serial-Number
 - Buy date
 - User
 - Model
 
-##### Model_Laptop
+#### Model_Laptop
+
 - Size
 - Resolution
 - CPU
@@ -54,58 +61,65 @@
 - Cost
 - Energy Efficiency
 
-#### Server
+### Server
+
 - Device ID
-- Mac-Adress
+- Mac-Address
 - Serial-Number
 - Place
 - Buy date
 
-##### Server_Model
+#### Server_Model
+
 - CPU
 - RAM
 - Brand
 - Cost
 - Energy Efficiency
 
-### Maintenence
+---
+
+### Maintenance
+
 - Device ID
 - Date
 
 ### Workspace
+
 - Room_ID
 
 ### Room
+
 - Room ID
 - Room number
 - Department_ID
 
-### Branch
-- Employes
-- Location
-- Type
--
-
 ### Department
-- Employes
-- Locaation_ID
+
+- Employees
+- Location_ID
 - Room_ID
 
 ### Location
+
 - Location_ID
 - City
-- Adress
+- Address
 
-### Employes
-- Lastname
-- Firstname
+### Employees
+
+- Last name
+- First name
 - EMail
 - Laptop_ID
 - Department_ID
-- Branch_ID
 
+---
+
+## Unneeded
 
 ### Workshop
+
 - Name
 - Customer_ID
 - Department_ID
@@ -113,26 +127,36 @@
 - Teacher
 
 ### Teacher
-- Employe_ID
+
+- Employee_ID
 - Workshop_ID
 
-
 ### Customer
+
 - First Name
 - Last Name
 - E-Mail
 
-### Compnay
+### Company
+
 - Customer_ID
-- Compnay Name
+- Company Name
 
 ### Orders
+
 - Customer_ID
 - Order Date
-- Fulfilment Date
+- Fulfillment Date
 - Invoice_ID
 
 ### Invoice
+
 - Invoice number
 - Price
 - Customer_ID
+
+### Branch
+
+- Employees
+- Location
+- Type
