@@ -15,47 +15,70 @@
 
 
 #### Printer
-- Name
+- Device ID
+- Mac-Adress
 - Serial-Number
 - Brand
-- Place
+- Workspace ID
 - Cost
 - Buy date
 
 #### Monitor
+- Device ID
+- Workspace ID
 - Serial-Number
-- Place
+- Model
+- Buy date
+
+##### Monitor_Model
 - Size
+- Resolution
 - Brand
 - Cost
-- Buy date
+- Energy Efficiency
 
 #### Laptop
-- Name
+- Device ID
 - Mac-Adress
 - Serial-Number
-- Brand
-- Cost
 - Buy date
 - User
+- Model
 
-### Server
-- Name
+##### Model_Laptop
+- Size
+- Resolution
+- CPU
+- RAM
+- Brand
+- Cost
+- Energy Efficiency
+
+#### Server
+- Device ID
 - Mac-Adress
 - Serial-Number
-- Brand
 - Place
-- Cost
 - Buy date
 
+##### Server_Model
+- CPU
+- RAM
+- Brand
+- Cost
+- Energy Efficiency
+
+### Maintenence
+- Device ID
+- Date
+
 ### Workspace
-- Room
-- Equipment
+- Room_ID
 
 ### Room
 - Room ID
 - Room number
-- Location
+- Department_ID
 
 ### Branch
 - Employes
@@ -65,34 +88,51 @@
 
 ### Department
 - Employes
-- Location
-- Rooms
-- Departments 
+- Locaation_ID
+- Room_ID
+
+### Location
+- Location_ID
+- City
+- Adress
 
 ### Employes
 - Lastname
 - Firstname
 - EMail
-- Laptop
-- Department
-- Branch
+- Laptop_ID
+- Department_ID
+- Branch_ID
 
 
 ### Workshop
 - Name
-- Participent
+- Customer_ID
+- Department_ID
+- Room_ID
+- Teacher
+
+### Teacher
+- Employe_ID
+- Workshop_ID
+
 
 ### Customer
 - First Name
 - Last Name
-- Company
+- E-Mail
+
+### Compnay
+- Customer_ID
+- Compnay Name
 
 ### Orders
-- Data
+- Customer_ID
 - Order Date
 - Fulfilment Date
+- Invoice_ID
 
 ### Invoice
 - Invoice number
 - Price
-- Customer
+- Customer_ID
