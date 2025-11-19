@@ -1,6 +1,6 @@
 # Learning_Field_02
-## Groupe Members 
-- Kevin Kurniawan
+## Group Members 
+- Kevin Kurniawan (32)
 - Felicitas Köhler
 - Bennett Möller
 ## Task
@@ -8,7 +8,7 @@
 >Get an overview of the company's operational structure and decide how the hardware can be managed in the company with the help of a database.
 
 ## Work to do
-### Intoduction to Databases
+### Introduction to Databases
 - [ ] Basic understanding of Databases
 - [ ] ER Modell
 - [ ] Normalize
@@ -17,14 +17,14 @@
 ### Setup MySql
 - [ ] Initial Setup
 - [ ] Troubleshooting
-### Planing for the Database
+### Planning for the Database
 - [x] Selection of the task
     -  Innova3D KG
 - [ ] Information collection
 - [ ] Creation of ERM 
 
 ### Modeling Database
-- [ ] implementaion of Structure
+- [ ] implementation of Structure
 - [ ] Fill Database with Information
 ### Testing Database
 - [ ] Test Database
@@ -34,7 +34,7 @@
 ## Workspace
 ### Quellen
  - [ER-Modell](/Planing/ER%20Modell.drawio)
- - [Collected Database Information](/Planing/Content.md)
+ - [Collected Database Information](/Planing/Information%20gathering.md)
  - [Databank](/Database/#)
  - [Presentation](/Presentation/Presentation.pptx)
 
