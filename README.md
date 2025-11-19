@@ -27,7 +27,7 @@
 - [ ] implementaion of Structure
 - [ ] Fill Database with Information
 ### Testing Database
-- [ ]Test Database
+- [ ] Test Database
 ### Presentation
 - [ ] Creation of Presentation
 
