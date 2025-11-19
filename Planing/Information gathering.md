@@ -21,10 +21,14 @@
 - Device ID
 - Mac-Address
 - Serial-Number
-- Brand
 - Workspace ID
-- Cost
 - Buy date
+
+#### Printer_Model
+
+- Brand
+- Cost
+- Name
 
 ### Monitor
 
@@ -92,13 +96,6 @@
 
 - Room ID
 - Room number
-- Department_ID
-
-### Department
-
-- Employees
-- Location_ID
-- Room_ID
 
 ### Location
 
@@ -160,3 +157,9 @@
 - Employees
 - Location
 - Type
+
+### Department
+
+- Employees
+- Location_ID
+- Room_ID
