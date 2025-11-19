@@ -9,27 +9,27 @@
 
 ## Work to do
 ### Intoduction to Databases
-- [] Basic understanding of Databases
-- [] ER Modell
-- [] Normalize
-- [] ERM to Database
+- [ ] Basic understanding of Databases
+- [ ] ER Modell
+- [ ] Normalize
+- [ ] ERM to Database
 
 ### Setup MySql
-- [] Initial Setup
-- [] Troubleshooting
+- [ ] Initial Setup
+- [ ] Troubleshooting
 ### Planing for the Database
 - [x] Selection of the task
     -  Innova3D KG
-- [] Information collection
-- [] Creation of ERM 
+- [ ] Information collection
+- [ ] Creation of ERM 
 
 ### Modeling Database
-- [] implementaion of Structure
-- [] Fill Database with Information
+- [ ] implementaion of Structure
+- [ ] Fill Database with Information
 ### Testing Database
-- []Test Database
+- [ ]Test Database
 ### Presentation
-- [] Creation of Presentation
+- [ ] Creation of Presentation
 
 ## Workspace
 ### Quellen
