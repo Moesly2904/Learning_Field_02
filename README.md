@@ -30,8 +30,8 @@
 
 - [x] Selection of the task
   - [Innova3D KG](https://moodle.itech-bs14.de/mod/page/view.php?id=145628)
-- [ ] Information collection
-- [ ] Creation of ERM
+- [x] Information collection
+- [x] Creation of ERM
 
 ### Modeling Database
 
@@ -48,9 +48,10 @@
 
 ## Workspace
 
-### Quellen
+### Sources
 
-- [ER-Model](/Planing/ER%20Modell.drawio)
+- [ER-Model:](/Planing/ERD-Modell.png)
+![ERM Model](/Planing/ERD-Modell.png)
 - [Collected Database Information](/Planing/Information%20gathering.md)
 - [Database](/Database/#)
 - [Presentation](/Presentation/Presentation.pptx)
