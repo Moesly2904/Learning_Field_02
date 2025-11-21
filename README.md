@@ -53,5 +53,6 @@
 - [ER-Model:](/Planing/ERD-Modell.png)
 ![ERM Model](/Planing/ERD-Modell.png)
 - [Collected Database Information](/Planing/Information%20gathering.md)
+- [Inventory Table Sheet](https://docs.google.com/spreadsheets/d/1Y5RqRFEIL4vW_Zv4aUcGO0k9m9npWe0nJ68vTwFw8Ho/edit?usp=sharing)
 - [Database](/Database/#)
 - [Presentation](/Presentation/Presentation.pptx)
