@@ -18,12 +18,12 @@
 - [x] Basic understanding of Databases
 - [x] ER Model
 - [x] Normalize
-- [ ] ERM to Database
+- [x] Table to Database
 - [ ] SQL Queries
 
 ### Setup MySql
 
-- [ ] Initial Setup
+- [x] Initial Setup
 - [ ] Troubleshooting
 
 ### Planning for the Database
@@ -32,6 +32,8 @@
   - [Innova3D KG](https://moodle.itech-bs14.de/mod/page/view.php?id=145628)
 - [x] Information collection
 - [x] Creation of ERM
+- [x] Creation of Table
+- [x] Fill Inventory Table
 
 ### Modeling Database
 
